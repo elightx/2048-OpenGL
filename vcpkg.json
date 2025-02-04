@@ -1,0 +1,6 @@
+{
+  "dependencies" : [ "freetype-gl", "glew", "glfw3", {
+    "name" : "freetype",
+    "version>=" : "2.13.3"
+  } ]
+}
